@@ -87,3 +87,6 @@ input[type=text]:focus {
 .right{
       text-align: left;
 }
+#btn{
+    margin-left:400px;
+}
